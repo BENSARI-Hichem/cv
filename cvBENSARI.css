@@ -1,46 +1,114 @@
 .page{
-	width : 780px;
-	margin : auto;
+	width : auto;
+	margin :auto;
 	font-size :16px;
 	font-family : 'Source sans Pro', Calibri,Tahama, sans-serif;
 }
 
 .données{
 	height : 300px;
+	width : auto;
 }
 	
-.photo{
-	float : right;
-}
 	
 .Titre{
 	float : center;
+	width : auto;
+	font-size : 20px;
+	color : rgb(243, 22, 22);
 }
 
 .Information{
 	float : left;
-}
-strong{
-	font-size: 26px;
-}
-.section{
-	margin-bottom: 70px;
-	text-align:justify;
-}	
-.h4{
-	font-size : 28px;
-	color : #3388BB;
-	text-transform : uppercase;
-	border-bottom : 3px solid #3388DD;
-}	
-.sec-gauche{
-	float : left;
-	font-weight: bold;
+	width : auto;
 	font-size: 20px;
 }
+strong{
+	font-size: 20px; 
+} 
+h3{
+	font-size: 25px;
+	color : rgb(243, 22, 22);
+	border-bottom: 3px solid rgb(243, 22, 22);
+}
 
-.sec-droite{
-	margin-left : 180px;
+li{
+	line-height:30px;
+
+}
+.section_Diplômes{
+	height :360px;
+	width : auto;
+	margin-bottom: 70px;
+	font-size: 20px;
 }	
+	
+.sec-gauche_Dip{
+	float : left;
+	width : 200px;
+	height: 360px;
+}
+.sec-gauche_Diplômes{
+	float : left;
+	font-size: 25px;
+	width : 200px;
+	height:100px;
+	text-align: left;
+}
+.sec-droite_Dip{
+	height: auto;
+}
+.sec-droite_Diplômes{
+	line-height:10px;
+	font-size: 25px;
+	height: 100px;	
+}
+.section_Expériences{
+	height :auto;
+	width : auto;
+	font-size: 20px;
+}
+.sec-gauche_Exp{
+	float : left;
+	width : 200px;
+	height: 320px;
+}
+.sec-gauche_Expériences{
+	float : left;
+	font-weight: bold;
+	font-size: 25px;
+	width : 200px;
+	height:150px;
+}
+.sec-droite_Expériences{
+	margin-left : 100px;
+	line-height:10px;
+	font-size: 25px;
+	height: 150px;
+}
+.sec-droite_Exp{
+	height: 320px;
+}
+.section_Compétences{
+	height :360px;
+	width : auto;
+	margin-bottom: 70px;
+	font-size: 20px;
+}	
+
+.sec-gauche_Compétences{
+	float : left;
+	font-size: 25px;
+	width : 500px;
+	height:100px;
+	text-align: left;
+}
+.sec-droite_Compétences{
+	float : left;
+	font-size: 25px;
+	width : auto;
+	height:100px;
+	text-align: left;
+}
 
 
