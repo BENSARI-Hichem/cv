@@ -6,18 +6,15 @@
 }
 
 .données{
-	height : 300px;
+	height : 320px;
 	width : auto;
 }
-	
-	
 .Titre{
 	float : center;
 	width : auto;
-	font-size : 20px;
+	font-size : 30px;
 	color : rgb(243, 22, 22);
 }
-
 .Information{
 	float : left;
 	width : auto;
@@ -27,17 +24,16 @@ strong{
 	font-size: 20px; 
 } 
 h3{
-	font-size: 25px;
+	font-size: 40px;
 	color : rgb(243, 22, 22);
 	border-bottom: 3px solid rgb(243, 22, 22);
 }
 
 li{
-	line-height:30px;
-
+	line-height:35px;
 }
 .section_Diplômes{
-	height :360px;
+	height :400px;
 	width : auto;
 	margin-bottom: 70px;
 	font-size: 20px;
@@ -76,7 +72,7 @@ li{
 .sec-gauche_Expériences{
 	float : left;
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 15px;
 	width : 200px;
 	height:150px;
 }
@@ -90,7 +86,7 @@ li{
 	height: 320px;
 }
 .section_Compétences{
-	height :360px;
+	height :160px;
 	width : auto;
 	margin-bottom: 70px;
 	font-size: 20px;
@@ -100,15 +96,22 @@ li{
 	float : left;
 	font-size: 25px;
 	width : 500px;
-	height:100px;
+	height:150px;
 	text-align: left;
 }
 .sec-droite_Compétences{
 	float : left;
 	font-size: 25px;
 	width : auto;
-	height:100px;
+	height:150px;
 	text-align: left;
 }
+.section_Langues{
+	height :200px;
+	width : auto;
+	margin-bottom: 70px;
+	font-size: 30px;
+}	
+
 
 
